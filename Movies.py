@@ -1,6 +1,6 @@
 import random
 
-movie = ['12 Monkeys' ,'21 Jump Street','22 Jump Street']
+movie = ['12 Monkeys','21 Jump Street','22 Jump Street','American Psycho','An American Pickle','Apollo 13','',]
 
 random_movie = random.choice(movie)
 print(random_movie)
